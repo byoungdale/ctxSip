@@ -1,4 +1,4 @@
-# ctxSip
+# sipjs_phone
 
 [Project Homepage / Demo](https://collecttix.github.io/ctxSip/)
 
@@ -67,3 +67,7 @@ ctxSip uses:
 Tested on:
 
 - [Kazoo](http://2600hz.com)
+
+Plan:
+
+- try to rework to use React as UI.
